@@ -6,6 +6,7 @@
   "author": "yutaroud",
   "license": "MIT",
   "dependencies": {
+    "copy-webpack-plugin": "^7.0.0",
     "webpack": "^5.24.2",
     "webpack-cli": "^4.5.0"
   }
